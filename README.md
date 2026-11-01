@@ -1,10 +1,10 @@
 # net2008-pa2 Fleet Compliance Auditor
 
-Name: Eric
-Carleton ID: 101376269
-Algonquin ID: 041263030
+<p>Name: Eric</p>
+<p>Carleton ID: 101376269</p>
+<p>Algonquin ID: 041263030</p>
 
-## How to run
+## How To Run
 
     python pa2.py DEVICES.xml POLICY.yaml
 
