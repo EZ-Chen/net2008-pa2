@@ -2,7 +2,10 @@
 pa2.py - Fleet Compliance Auditor for NET2008 Practical Assessment 2.
 
 Name: Eric
-Student ID: 101376269
+
+Carleton ID: 101376269
+
+Algonquin ID: 041263030
 
 Usage:
     python pa2.py DEVICES.xml POLICY.yaml
