@@ -6,6 +6,8 @@
 
 ## How To Run
 
+Input command below into CLI:
+
     python pa2.py DEVICES.xml POLICY.yaml
 
 Requires Python 3 and PyYAML (`pip install pyyaml`).
